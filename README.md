@@ -9,7 +9,9 @@ The Tata Online Retail Project on Forage offers participants a unique opportunit
 The goal of the project is to analyze retail data to provide insights and actionable recommendations to the company’s leadership team. The project involves working with datasets that cover various aspects of the retail business, such as sales performance, customer behavior, and product demand.
 
 ## Task 1: Framing the Business Scenario
-* Objective : 
+
+#### Objective :
+
 The primary objective of this task is to evaluate key factors driving revenue and customer behavior. By doing so, the goal is to provide the CEO and CMO with a clear understanding of the store's performance and recommend areas for improvement.
 
 This involves:
@@ -17,7 +19,7 @@ This involves:
 * Analyzing sales data to identify top-performing products.Understanding customer purchasing patterns and segmenting customers based on their buying habits.
 * Highlighting any trends or anomalies in sales data (e.g., seasonal spikes, product returns).
 
-* Key Insights:
+#### Key Insights :
 
 1 : Top Revenue-Generating Products: Identifying which products or product categories contribute the most to overall sales.
 
@@ -33,7 +35,8 @@ This involves:
 
 ## Task 2: Choosing the Right Visuals
 
-* Objective : 
+#### Objective : 
+
 The objective of this task is to use data visualization techniques to present key findings in a clear, concise, and visually appealing manner. This involves choosing the right types of charts, graphs, and visuals to highlight important metrics such as sales performance, customer segmentation, and product trends. 
 
 The aim is to:
@@ -42,7 +45,8 @@ The aim is to:
 * Use visuals to identify trends, patterns, and outliers.
 * Make data-driven insights accessible to non-technical audiences, such as the CEO and CMO.
 
-* Key Insights:
+#### Key Insights :
+
 1 : Highlighting Revenue Contributions: Using bar or column charts to display top revenue-generating products, categories, or customer segments. This allows the leadership team to quickly see which products and customers are most profitable.
 
 2 : Visualizing Sales Trends: Time-series line charts can help track sales performance over time, making it easier to identify seasonal trends or shifts in demand.
@@ -55,11 +59,11 @@ The aim is to:
 
 6 : Identifying Outliers and Patterns: Heatmaps or scatter plots can help identify outliers or unexpected trends in the data, such as a sudden increase in sales for a particular product or region.
 
-* Tools : Power BI.
+#### Tools : Power BI.
 
 ## Task 3: Creating Effective Visuals
 
-* Objective : 
+#### Objective : 
 
 The objective of this task is to transform raw data into compelling, interactive, and well-designed visualizations that not only present the insights effectively but also make it easier for decision-makers to interact with and explore the data. This involves:
 
@@ -67,7 +71,7 @@ The objective of this task is to transform raw data into compelling, interactive
 * Ensuring that the visuals align with the business objectives, emphasizing the most critical insights for Tata’s leadership.
 * Creating visuals that are interactive (if applicable) to allow users to drill down into the data for more detailed insights.
 
-* Key Insights:
+#### Key Insights :
 
 1 : Clear and Concise Storytelling: The visuals should tell a cohesive story, guiding the leadership team through the most important aspects of the data. For example, a dashboard could lead from high-level revenue trends down to granular details like product-specific sales, helping to answer key business questions.
 
@@ -79,11 +83,11 @@ The objective of this task is to transform raw data into compelling, interactive
 
 5 : Insight-Driven Decision Making: Visuals should lead to actionable insights, such as identifying underperforming product categories or regions with high growth potential. These insights will enable Tata’s leadership to make data-driven decisions that could increase efficiency, reduce costs, or boost revenue.
 
-* Tools: Power BI.
+#### Tools : Power BI.
 
 ## Task 4: Communicating Insights and Analysis
 
-* Objective:
+#### Objective :
 
 The objective of this task is to deliver a well-structured presentation or report that summarizes the analysis and highlights the most important insights gained from the data. This includes:
 
@@ -91,7 +95,7 @@ The objective of this task is to deliver a well-structured presentation or repor
 * Ensuring that the insights are actionable, helping Tata’s leadership make informed decisions.
 * Providing recommendations based on the analysis to improve business performance.
 
-* Key Insights:
+#### Key Insights :
 
 1 : Executive Summary: A brief overview of the major findings, such as top revenue-generating products, key customer segments, and high-performing regions, presented in a way that is easy to digest for busy executives.
 
@@ -101,7 +105,7 @@ The objective of this task is to deliver a well-structured presentation or repor
 
 4 : Data-Backed Decisions: Recommendations should be supported by the visuals and analysis created in previous tasks. For instance, a suggestion to discontinue underperforming products would be backed by sales and return data shown in the report.
 
-5 : Clear Visual Communication: The use of visuals (charts, graphs, and dashboards) to highlight trends, anomalies, and key metrics ensures that insights are presented in a compelling and memorable way.
+5 : Clear Visual Communication: The use of visuals (charts, graphs, and dashboards) to highlight trends, anomalies, and key metrics ensures that insights are presented compellingly and memorably.
 
 6 : Anticipating Stakeholder Questions: Preparing to answer potential questions or concerns from the leadership, such as deeper details on product performance or customer behavior, with supporting data or additional visuals.
 
